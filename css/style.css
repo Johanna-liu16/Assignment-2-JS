@@ -21,10 +21,10 @@ h3 {
   text-align: center;
 }
 
-.mdl-layout__content{
-padding-left: 10pt;
-padding-right: 10pt;
-padding-bottom: 10pt
+.mdl-layout__content {
+  padding-left: 10pt;
+  padding-right: 10pt;
+  padding-bottom: 10pt;
 }
 
 p {
