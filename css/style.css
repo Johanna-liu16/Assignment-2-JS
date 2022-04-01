@@ -1,19 +1,26 @@
 /* Created by: Johanna Liu
- * Created on: Feb 2022
- * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
+ * Created on: Mar 2022
+ * This CSS file defines the style for index.html ICS2O-Assignment-2-JS
 */
 
 body {
-  background-color: azure;
+  background-color: lavender;
 }
 
-h1 {
-  background-color: rgb(153 255 221);
+h2 {
+  background-color: rgb(216 191 216);
   color: hsl(0deg 0% 0%);
-  padding: 40px;
+  padding: 10px;
+  text-align: center;
+}
+
+h3 {
+  background-color: rgb(216 191 216);
+  color: hsl(0deg 0% 0%);
+  padding: 10px;
   text-align: center;
 }
 
 p {
-  background-color: #e0ffff;
+  background-color: #D8BFD8;
 }
